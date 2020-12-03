@@ -1,7 +1,7 @@
 {
-  "name": "ridhobot",
+  "name": "septiancz bot",
   "version": "1.0.1",
-  "description": "bot whatsapp lewat hp doang",
+  "description": "bot whatsapp",
   "main": "index.js",
   "directories": {
     "lib": "lib"
@@ -34,10 +34,10 @@
   "keywords": [
     "k"
   ],
-  "author": "ridho setiawan",
+  "author": "septian candra & martin",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ridho03/waridhobot/issues"
   },
-  "homepage": "https://github.com/ridho03/waridhobot#readme"
+  "homepage": "https://github.com/septian/waridhobot#readme"
 }
